@@ -23,10 +23,20 @@
         </entry>
       </file>
       <file leaf-file-name="FirstModuleFourthTask.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/epam/FirstModuleTasks/FirstModuleFirstTask/FirstModuleFourthTask.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/epam/FirstModuleTasks/FirstModuleFourthTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="21" column="69" lean-forward="false" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+            <state relative-caret-position="64">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstModuleSecondTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/epam/FirstModuleTasks/FirstModuleSecondTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -63,6 +73,7 @@
         <option value="$PROJECT_DIR$/src/main/java/epam/FirstModuleTasks/FirstModuleSecondTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/epam/FirstModuleTasks/FirstModuleThirdTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/epam/FirstModuleTasks/FirstModuleFirstTask/FirstModuleFourthTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/epam/FirstModuleTasks/FirstModuleFourthTask.java" />
       </list>
     </option>
   </component>
@@ -121,14 +132,6 @@
               <item name="epam" type="462c0819:PsiDirectoryNode" />
               <item name="FirstModuleTasks" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="epam" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstModuleTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstModuleFirstTask" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -156,11 +159,11 @@
     <configuration name="FirstModuleFourthTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="main.java.epam.FirstModuleTasks.FirstModuleFirstTask.*" />
+          <option name="PATTERN" value="main.java.epam.FirstModuleTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="main.java.epam.FirstModuleTasks.FirstModuleFirstTask.FirstModuleFourthTask" />
+      <option name="MAIN_CLASS_NAME" value="main.java.epam.FirstModuleTasks.FirstModuleFourthTask" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -335,12 +338,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510766620538</updated>
-      <workItem from="1510766623024" duration="8538000" />
+      <workItem from="1510766623024" duration="8621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8538000" />
+    <option name="totallyTimeSpent" value="8621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="684" extended-state="0" />
@@ -450,14 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/epam/FirstModuleTasks/FirstModuleSecondTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/epam/FirstModuleTasks/FirstModuleThirdTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -466,10 +461,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/epam/FirstModuleTasks/FirstModuleFirstTask/FirstModuleFourthTask.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/epam/FirstModuleTasks/FirstModuleSecondTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="21" column="69" lean-forward="false" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+        <state relative-caret-position="96">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/epam/FirstModuleTasks/FirstModuleFourthTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
