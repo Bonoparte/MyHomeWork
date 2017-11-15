@@ -1,2 +1,0 @@
-# MyHomeWork
-EPAM Homework
