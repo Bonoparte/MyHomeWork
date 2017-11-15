@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class FirstModuleSecondTask {
     public static void main(String[] args) {
-        System.out.println("Enter the Epsilon Value");
+        System.out.print("Enter the Epsilon Value: ");
         double epsilon;
         Scanner in = new Scanner(System.in);
         epsilon = in.nextDouble();
