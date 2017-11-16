@@ -1,4 +1,4 @@
-package main.java.epam.FirstModuleTasks;
+package main.java.epam.FirstModuleTasks.FirstModuleSixthTask;
 
 import java.util.Scanner;
 
