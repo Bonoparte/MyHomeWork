@@ -1,24 +1,20 @@
 package com.epam.SecondModuleTasks.SecondModuleThirdTask;
 
-public class Stationery {
+public class Stationery implements Comparable<Stationery>{
     private String title;
-    private double price;
+    private Double price;
 
-    public Stationery() {
-        this.title = "Something that's no one knows how to call";
-        this.price = 20;
-    }
 
-    public Stationery(String title, double price) {
+    public Stationery(String title, Double price) {
         this.title = title;
         this.price = price;
     }
 
-    public double getPrice() {
+    public Double getPrice() {
         return price;
     }
 
-    public void setPrice(double price) {
+    public void setPrice(Double price) {
         this.price = price;
     }
 
@@ -36,5 +32,13 @@ public class Stationery {
                 "title='" + title + '\'' +
                 ", price=" + price +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Stationery o) {
+        if (this.price.compareTo(o.price)!=0)
+            return this.price.compareTo(o.price);
+        else
+            return this.title.compareTo(o.title);
     }
 }
