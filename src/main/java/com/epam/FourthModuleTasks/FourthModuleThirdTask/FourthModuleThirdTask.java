@@ -21,7 +21,6 @@ public class FourthModuleThirdTask {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-        System.out.println(textSB);
+        
     }
 }
