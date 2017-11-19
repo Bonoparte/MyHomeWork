@@ -20,8 +20,8 @@
       <file leaf-file-name="FourthModuleThirdTask.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/FourthModuleTasks/FourthModuleThirdTask/FourthModuleThirdTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="208">
+              <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -462,12 +462,12 @@
       <workItem from="1510793530672" duration="17454000" />
       <workItem from="1510877675313" duration="17841000" />
       <workItem from="1511044222706" duration="17278000" />
-      <workItem from="1511126283273" duration="7730000" />
+      <workItem from="1511126283273" duration="7873000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77143000" />
+    <option name="totallyTimeSpent" value="77286000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -905,8 +905,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/FourthModuleTasks/FourthModuleThirdTask/FourthModuleThirdTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="208">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
           <folding />
         </state>
       </provider>

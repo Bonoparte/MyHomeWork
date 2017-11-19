@@ -14,6 +14,7 @@ public class FourthModuleThirdTask {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        System.out.println(textSB);
         try (BufferedWriter bw = new BufferedWriter(
                 new OutputStreamWriter(new FileOutputStream(
                         new File("outTest.txt")),"UTF-16"));) {
@@ -21,6 +22,6 @@ public class FourthModuleThirdTask {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        
+
     }
 }
