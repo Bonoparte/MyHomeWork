@@ -1,6 +1,5 @@
 package com.epam.ThirdModuleTasks.ThirdModuleThirdTask;
 
-
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -8,7 +7,6 @@ import org.jsoup.nodes.Element;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -34,25 +32,24 @@ public class ThirdModuleThirdTask {
             Matcher matcher = pattern.matcher(stringBuilder.toString());
             StringBuilder text = new StringBuilder();
             while (matcher.find()) {
-                text.append(matcher.group()+"\n");
+                text.append(matcher.group() + "\n");
             }
             System.out.println(text);
             pattern = Pattern.compile("Рис. [0-9]+|рис. [0-9]+|.а рисунке [0-9]+");
             matcher = pattern.matcher(text.toString());
             StringBuilder newText = new StringBuilder();
             while (matcher.find()) {
-                newText.append(matcher.group()+" ");
+                newText.append(matcher.group() + "\n");
             }
-            System.out.println(newText);
-            pattern = Pattern.compile("[\\d]*");
+            pattern = Pattern.compile("\\d+");
             matcher = pattern.matcher(newText.toString());
-            int numOfPic=0;
-            int numOfPreviousPic=0;
+            int numOfPic = 0;
+            int numOfPreviousPic = 0;
             boolean inOrder = true;
             while (matcher.find()) {
                 numOfPreviousPic = numOfPic;
                 numOfPic = Integer.parseInt(matcher.group());
-                if (numOfPreviousPic>numOfPic) {
+                if (numOfPreviousPic > numOfPic) {
                     inOrder = false;
                     break;
                 }
