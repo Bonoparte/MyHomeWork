@@ -37,7 +37,6 @@ public class FourthModuleFirstTask {
         String data = stringBuilder.substring(2,stringBuilder.length()-1) + "\r\n";
         data = data.replace(" ", "\r\n").replace(",","").replace("=", " : ");
         data = data + "Keyword count: " + keywordCounter;
-        System.out.println(data);
         try (OutputStream outputStream = new FileOutputStream("data.txt")) {
             outputStream.write(data.getBytes());
             outputStream.flush();
