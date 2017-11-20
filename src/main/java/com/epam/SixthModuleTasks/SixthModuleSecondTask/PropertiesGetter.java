@@ -1,4 +1,4 @@
-package com.epam.FifthModuleTasks.FifthModuleSecondTask;
+package com.epam.SixthModuleTasks.SixthModuleSecondTask;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,6 +1,6 @@
-package com.epam.FifthModuleTasks.FifthModuleSecondTask;
+package com.epam.SixthModuleTasks.SixthModuleSecondTask;
 
-public class FifthModuleSecondTask {
+public class SixthModuleSecondTask {
     public static void main(String[] args) {
         PropertiesGetter propertiesGetter = new PropertiesGetter("firstKey");
 //        System.out.println(propertiesGetter);
