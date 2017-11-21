@@ -20,20 +20,34 @@
       <file leaf-file-name="FifthModuleFirstTask.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/FifthModuleTasks/FifthModuleFirstTask/FifthModuleFirstTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
+            <state relative-caret-position="352">
               <caret line="52" column="30" lean-forward="false" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileManager.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FileManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/FifthModuleTasks/FifthModuleFirstTask/FileManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2320">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="214">
+              <caret line="173" column="46" lean-forward="true" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SixthModuleThirdTask.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/SixthModuleTasks/SixthModuleThirdTask/SixthModuleThirdTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#926#934#0" expanded="true" />
+                <element signature="e#1352#1360#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,7 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/java/epam/SecondModuleTasks/SecondModuleSecondTask/Stationery.java" />
         <option value="$PROJECT_DIR$/src/main/java/epam/SecondModuleTasks/SecondModuleSecondTask/Stationery.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/SecondModuleTasks/SecondModuleSecondTask/Stationery.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/SecondModuleTasks/SecondModuleThirdTask/ExerciseBook.java" />
@@ -127,6 +140,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/epam/SixthModuleTasks/SixthModuleSecondTask/PropertiesGetter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/FifthModuleTasks/FifthModuleFirstTask/FifthModuleFirstTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/FifthModuleTasks/FifthModuleFirstTask/FileManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/SixthModuleTasks/SixthModuleThirdTask/SixthModuleThirdTask.java" />
       </list>
     </option>
   </component>
@@ -206,36 +220,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="epam" type="462c0819:PsiDirectoryNode" />
-              <item name="FifthModuleTasks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="epam" type="462c0819:PsiDirectoryNode" />
-              <item name="FifthModuleTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="FifthModuleFirstTask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="epam" type="462c0819:PsiDirectoryNode" />
               <item name="SixthModuleTasks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="epam" type="462c0819:PsiDirectoryNode" />
-              <item name="SixthModuleTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="SixthModuleSecondTask" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -485,12 +470,12 @@
       <workItem from="1511126283273" duration="11791000" />
       <workItem from="1511145737447" duration="12058000" />
       <workItem from="1511219734042" duration="15036000" />
-      <workItem from="1511239911109" duration="5156000" />
+      <workItem from="1511239911109" duration="7525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113454000" />
+    <option name="totallyTimeSpent" value="115823000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -514,7 +499,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34094617" sideWeight="0.50755286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34094617" sideWeight="0.49244714" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34094617" sideWeight="0.49244714" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -576,13 +561,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/SecondModuleTasks/SecondModuleFifthTask/MarksComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="87" lean-forward="false" selection-start-line="6" selection-start-column="87" selection-end-line="6" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/SecondModuleTasks/SecondModuleFourthTask/SecondModuleFourthTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -919,7 +897,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/FifthModuleTasks/FifthModuleFirstTask/FifthModuleFirstTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
+        <state relative-caret-position="352">
           <caret line="52" column="30" lean-forward="false" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
           <folding />
         </state>
@@ -927,10 +905,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/FifthModuleTasks/FifthModuleFirstTask/FileManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2320">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="214">
+          <caret line="173" column="46" lean-forward="true" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/SixthModuleTasks/SixthModuleThirdTask/SixthModuleThirdTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#926#934#0" expanded="true" />
+            <element signature="e#1352#1360#0" expanded="true" />
           </folding>
         </state>
       </provider>
