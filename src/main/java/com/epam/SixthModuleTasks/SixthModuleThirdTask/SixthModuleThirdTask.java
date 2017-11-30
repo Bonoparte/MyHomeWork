@@ -13,6 +13,7 @@ public class SixthModuleThirdTask {
 //        Doctor doctor6 = new Nurse();                 // Nurse is not object of Doctor class
 //        Nurse nurse = new Doctor();                   // The same with Doctor - Nurse
         Object object2 = new Nurse();
+        ((Nurse)object2).hello();
         List<Doctor> list1= new ArrayList<Doctor>();    // you can only initialize new ArrayList with the same Class Objects
         list1.add(new HeadDoctor());                    // but you can add into list objects which extends parent-class
 //        List<MedicalStaff> list2 = new ArrayList<Doctor>();
@@ -24,5 +25,9 @@ public class SixthModuleThirdTask {
 }
 class MedicalStaff{}
 class Doctor extends MedicalStaff{}
-class Nurse extends MedicalStaff{}
+class Nurse extends MedicalStaff{
+    public void hello() {
+        System.out.println("Hello!");
+    }
+}
 class HeadDoctor extends Doctor{}

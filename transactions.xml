@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<transactions>
+    <transaction id="0">
+        <payerId>0</payerId>
+        <payeeId>2</payeeId>
+        <amount>8.45</amount>
+    </transaction>
+    <transaction id="1">
+        <payerId>1</payerId>
+        <payeeId>3</payeeId>
+        <amount>9.31</amount>
+    </transaction>
+    <transaction id="2">
+        <payerId>4</payerId>
+        <payeeId>1</payeeId>
+        <amount>0.64</amount>
+    </transaction>
+    <transaction id="3">
+        <payerId>1</payerId>
+        <payeeId>2</payeeId>
+        <amount>9.05</amount>
+    </transaction>
+    <transaction id="4">
+        <payerId>0</payerId>
+        <payeeId>2</payeeId>
+        <amount>5.16</amount>
+    </transaction>
+    <transaction id="5">
+        <payerId>4</payerId>
+        <payeeId>0</payeeId>
+        <amount>5.14</amount>
+    </transaction>
+    <transaction id="6">
+        <payerId>0</payerId>
+        <payeeId>3</payeeId>
+        <amount>8.69</amount>
+    </transaction>
+    <transaction id="7">
+        <payerId>2</payerId>
+        <payeeId>3</payeeId>
+        <amount>8.52</amount>
+    </transaction>
+</transactions>
